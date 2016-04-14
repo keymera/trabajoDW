@@ -1,0 +1,37 @@
+li:first-child {
+	font-size: 22px;
+}
+
+li:last-child {
+	font-size: 22px;	
+}
+
+p {
+	font-size: 14px;
+}
+
+.titulo_principal {
+	margin-top: 10px
+	margin-bottom:5px;
+	border-bottom:grey 1px dotted;
+}
+
+p:first-letter {
+font-size: 42px;
+}
+
+img {
+	padding: 10px;
+}
+
+a:hover {
+
+}
+
+a:visited {
+	color:#D190D4;
+	text-decoration: none;
+}
+a:link {
+
+}

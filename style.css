@@ -1,0 +1,36 @@
+body {
+	color: black;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+p {
+	color: red;
+}
+p.mi_texto {
+	color:yellow;
+}
+h2.mi_texto{
+	color:#000000;
+}
+#mi_identificador {
+	background: grey;
+}
+
+img {
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+a {
+	color:blue;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#000000;
+	text-decoration: underline;
+}
+
+p[class="mi_texto"] {
+	
+}
